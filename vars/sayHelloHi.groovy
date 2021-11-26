@@ -1,4 +1,4 @@
-ef call(String sayWhat="nothing"){
+def call(String sayWhat="nothing"){
 if(sayWhat=="hi"){
  
 echo "Hi Zartab"
