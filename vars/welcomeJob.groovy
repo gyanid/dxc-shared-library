@@ -1,3 +1,5 @@
-def call(string name='User'){
-  echo "Welcome ${name}
+def call(Stringname = 'User'){
+
+echo "welcome ${name}."
+
 }
